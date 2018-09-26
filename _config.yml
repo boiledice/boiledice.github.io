@@ -2,7 +2,7 @@ title: BoiledIce
 description: BoiledIce Home Page
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
